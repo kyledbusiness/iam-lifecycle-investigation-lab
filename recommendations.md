@@ -1,6 +1,6 @@
 # IAM Lab Recommendations
 
-This page includes a few ideas for how the IAM Lifecycle Automation Lab could be improved or expanded in the future. These suggestions are based on what I saw while working through the lab as a student.
+This page includes a few ideas for how the IAM Lifecycle Investigation Lab could be improved or expanded in the future. These suggestions are based on what I saw while working through the lab as a student.
 
 The lab already gives a great overview of how identity and access management works in the cloud. These notes are just ways it could go even further and help others learn even more.
 
