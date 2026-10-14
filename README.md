@@ -1,4 +1,4 @@
-# IAM Lifecycle Automation Lab (Cyber Range)
+# IAM Lifecycle Investigation Lab (Cyber Range)
 
 This repository documents a student-led project focused on identity and access management (IAM) in a cloud environment. It was completed as part of the Cyber Range using Microsoft Entra ID, Azure, and third-party integrations like Tenable and Gmail.
 
